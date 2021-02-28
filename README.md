@@ -1,5 +1,5 @@
 # mhammermsater93
 *She/her
 Melanie 
-Studying at Douglas College
-Love learning about git and linux and programming :D
+learning about git and linux and programming :D
+learning about how to use git in the terminal!
