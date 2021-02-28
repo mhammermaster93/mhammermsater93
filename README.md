@@ -1,5 +1,3 @@
-# mhammermsater93
-*She/her
-Melanie 
-learning about git and linux and programming :D
-learning about how to use git in the terminal!
+Melanie
+*She/her Studying at Douglas College Love learning about git and linux and programming :D
+Learning how to use git commands.
